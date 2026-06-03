@@ -1,0 +1,8 @@
+path: C:/D/pyproject/bottle/bottle_yolo
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: broken_large
+  1: broken_small
+  2: contamination

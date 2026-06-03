@@ -1,0 +1,3 @@
+train: total=204, defect=42, good=162
+val: total=58, defect=12, good=46
+test: total=30, defect=9, good=21
